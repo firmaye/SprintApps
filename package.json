@@ -1,6 +1,7 @@
 {
   "name": "my-vite-app",
   "private": true,
+  "homepage": "https://sprintapps.net",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
